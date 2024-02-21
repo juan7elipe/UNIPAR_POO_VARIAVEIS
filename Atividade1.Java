@@ -3,11 +3,9 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
     }
 }
-   
-    
+
     //Declaração das Variáveis aqui
     
     String nomealuno;
