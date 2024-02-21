@@ -10,13 +10,13 @@ class HelloWorld {
     
     //Declaração das Variáveis aqui
     
-    String Nomealuno;
-    double Nota1;
-    double Nota2;
-    String Raaluno;
-    double Media;
+    String nomealuno;
+    double nota1;
+    double nota2;
+    String raaluno;
+    double media;
     boolean true || false;
     char 'M';
-    int Idade;
-    double Medidade;
-    String Nomeprofessor;
+    int idade;
+    double medidade;
+    String nomeprofessor;
